@@ -1,10 +1,16 @@
-# Write Advanced Transact-SQL Queries
+# Create tables, views, and temporary objects
 
-https://learn.microsoft.com/en-us/training/paths/write-advanced-transact-sql-queries/
+https://learn.microsoft.com/en-gb/training/modules/create-tables-views-temporary-objects/1-introduction
 
 Transact-SQL (T-SQL): Microsoft SQL Server (relational database engine) and other Microsoft data platforms' extension of SQL.
 
 Has extra syntax and processes other SQL forms sometimes dont have.
+
+Learn:
+
+- CREATE TABLE, INSERT and SELECT for normal tables and, local and global temp tables.
+
+- Create and use VIEWS, CTEs and Derived Tables.
 
 ---
 
